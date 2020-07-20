@@ -4,7 +4,8 @@ A hospital administration app that includes built-in staff communication as well
 
 Inspired by my experience working in administration at a heart clinic, I started this app due to frustrations with working on ancient, confusing, and bug-ridden medical programs such as Vision and eClinical.
 
-[App Demo](https://youtu.be/XBnU_G2YNJk)
+[![Mod 5 Project - Emergent-Need](https://img.youtube.com/vi/hx9GR3DMwwU/0.jpg)](https://www.youtube.com/watch?v=hx9GR3DMwwU)
+
 
 ## Technologies Used
 
